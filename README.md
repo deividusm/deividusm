@@ -29,9 +29,3 @@ Soy estudiante de segundo año de **Ingeniería Civil en Informática** en la UT
 
 ---
 
-### **Estadísticas de actividad** 📊
-
-![Estadísticas de David](https://github-readme-stats.vercel.app/api?username=deividusm&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
