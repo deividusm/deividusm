@@ -13,7 +13,7 @@ Soy estudiante de segundo año de **Ingeniería Civil en Informática** en la UT
 ### **¿Qué me motiva y en qué estoy trabajando?** 
 
 * **Desarrollo Web e Innovación:** Me incentiva muchísimo crear aplicaciones web. Lo veo como el espacio ideal para combinar y aterrizar múltiples ideas que podria tener a futuro.
-* **Desarrollo Backend:** Más que memorizar sintaxis, me enfoco en entender la lógica detrás del código. Combino y evaluo sintaxys con herramientas modernas (como asistentes de IA), PERO asegurándome de comprender y estructurar bien cada pieza que integro.
+* **Desarrollo Backend:** Más que memorizar sintaxis, me enfoco en entender la lógica detrás del código. Combino y evaluo sintaxys con herramientas modernas (como asistentes de IA), asegurándome de comprender y estructurar bien cada pieza que integro.
 * **Ecosistema Web:** Actualmente construyendo proyectos con el framework de **Django** y aplicando nociones prácticas de plataformas BaaS como **Supabase**.
 * **Actualmente aprendiendo:** Estoy estudiando la teoría y los fundamentos de **C** y **C++** para comprender el software a un nivel mucho más cercano al hardware paralelamente a mi aprendizaje de desarrollo web.
 
